@@ -1,3 +1,4 @@
+//g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system -O3
 #include <SFML/Graphics.hpp>
 #include <vector>
 #include <boost/graph/adjacency_list.hpp>
